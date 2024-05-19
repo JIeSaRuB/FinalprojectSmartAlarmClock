@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FinalprojectSmartAlarmClock</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="warning">Without premission to access the device location, the app will not work</string>
+    <string name="exception">Security Exception, no location available</string>
+    <string name="text_message_weather">Погода на сегодня</string>
+    <string name="navigation_drawer_open">Открыт</string>
+    <string name="navigation_drawer_close">Открыт</string>
+</resources>
